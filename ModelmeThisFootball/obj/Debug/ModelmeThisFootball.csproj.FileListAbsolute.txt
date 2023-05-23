@@ -1,0 +1,7 @@
+C:\Users\Petar\source\repos\ModelmeThisFootball\ModelmeThisFootball\bin\Debug\ModelmeThisFootball.exe.config
+C:\Users\Petar\source\repos\ModelmeThisFootball\ModelmeThisFootball\bin\Debug\ModelmeThisFootball.exe
+C:\Users\Petar\source\repos\ModelmeThisFootball\ModelmeThisFootball\bin\Debug\ModelmeThisFootball.pdb
+C:\Users\Petar\source\repos\ModelmeThisFootball\ModelmeThisFootball\obj\Debug\ModelmeThisFootball.csprojAssemblyReference.cache
+C:\Users\Petar\source\repos\ModelmeThisFootball\ModelmeThisFootball\obj\Debug\ModelmeThisFootball.csproj.CoreCompileInputs.cache
+C:\Users\Petar\source\repos\ModelmeThisFootball\ModelmeThisFootball\obj\Debug\ModelmeThisFootball.exe
+C:\Users\Petar\source\repos\ModelmeThisFootball\ModelmeThisFootball\obj\Debug\ModelmeThisFootball.pdb
